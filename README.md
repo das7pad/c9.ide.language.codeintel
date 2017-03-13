@@ -54,7 +54,7 @@ and work out of the box.
 
    ```
    mkdir /tmp/codeintel
-   pip download /tmp/codeintel codeintel==0.9.3
+   pip download -d /tmp/codeintel codeintel==0.9.3
    ```
 
 6. Install codeintel
